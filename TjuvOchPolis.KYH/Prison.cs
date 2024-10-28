@@ -78,7 +78,7 @@ namespace TjuvOchPolis.KYH
                 }
                 else
                 {
-                    // Uppdatera position om den är säker
+                    // Uppdatera position
                     thief.X = newX;
                     thief.Y = newY;
                 }
